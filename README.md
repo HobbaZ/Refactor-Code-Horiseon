@@ -18,4 +18,4 @@ Looking at the already existing HTML and CSS codebase, it became apparent that t
 
 
 ### Website Link
-https://hobbaz.github.io/Refactor-Code-Homework/Develop/index.html
+https://hobbaz.github.io/Refactor-Code-Homework/Develop/
