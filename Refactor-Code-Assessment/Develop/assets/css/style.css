@@ -46,6 +46,7 @@ li {
 
 a {
     color: #ffffff;
+    text-decoration: none;
 }
 
 /*added link hover effects to easily determine links*/
