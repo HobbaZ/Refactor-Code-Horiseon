@@ -12,10 +12,12 @@ Looking at the already existing HTML and CSS codebase, it became apparent that t
 - Added alt text to all images for screen-reader accessibility.
 
 
+![screenshot of link hover effect](./assets/images/Horiseon-link-hover.png)
+
 ### Technology Used
 - HTML
 - CSS
 
 
 ### Website Link
-https://hobbaz.github.io/Refactor-Code-Homework/Develop/
+https://hobbaz.github.io/Refactor-Code-Homework/Refactor-Code-Assessment/Develop/
