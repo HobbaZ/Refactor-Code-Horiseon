@@ -11,7 +11,14 @@ Looking at the already existing HTML and CSS codebase, it became apparent that t
 - Added a underline hover effect to links so links are more obvious to user.
 - Added alt text to all images for screen-reader accessibility.
 
+Some codebase changes:
+![Changing header elements](https://github.com/HobbaZ/Refactor-Code-Homework/blob/main/Refactor-Code-Assessment/Develop/assets/images/code-refactor1.png)
 
+![Removing unneeded element code](https://github.com/HobbaZ/Refactor-Code-Homework/blob/main/Refactor-Code-Assessment/Develop/assets/images/code-refactor2.png)
+
+![Adding needed metadate tags](https://github.com/HobbaZ/Refactor-Code-Homework/blob/main/Refactor-Code-Assessment/Develop/assets/images/code-refactor3.png)
+
+Image below shows link hover effect
 ![screenshot of link hover effect](https://github.com/HobbaZ/Refactor-Code-Homework/blob/main/Refactor-Code-Assessment/Develop/assets/images/Horiseon-link-hover.png)
 
 ### Technology Used
