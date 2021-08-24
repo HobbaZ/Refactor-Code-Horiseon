@@ -16,7 +16,7 @@ Some codebase changes:
 
 ![Removing unneeded element code](https://github.com/HobbaZ/Refactor-Code-Homework/blob/main/Refactor-Code-Assessment/Develop/assets/images/code-refactor2.PNG)
 
-![Adding needed metadate tags](https://github.com/HobbaZ/Refactor-Code-Homework/blob/main/Refactor-Code-Assessment/Develop/assets/images/code-refactor3.PNG)
+![Adding needed meta data tags](https://github.com/HobbaZ/Refactor-Code-Homework/blob/main/Refactor-Code-Assessment/Develop/assets/images/code-refactor3.PNG)
 
 Image below shows link hover effect
 ![screenshot of link hover effect](https://github.com/HobbaZ/Refactor-Code-Homework/blob/main/Refactor-Code-Assessment/Develop/assets/images/Horiseon-link-hover.png)
@@ -25,6 +25,8 @@ Image below shows link hover effect
 - HTML
 - CSS
 
+### Full Website Screenshot
+![screenshot of full website](https://github.com/HobbaZ/Refactor-Code-Homework/blob/main/Refactor-Code-Assessment/Develop/assets/images/website-fullscreen-screenshot.png)
 
 ### Website Link
 https://hobbaz.github.io/Refactor-Code-Homework/Refactor-Code-Assessment/Develop/
