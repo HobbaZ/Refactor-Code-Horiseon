@@ -7,7 +7,7 @@ Looking at the already existing HTML and CSS codebase, it became apparent that t
 ### Main Code Changes
 - Changed div elements to semantic elements, header, footer, aside, figure etc.
 - Reduced id's benefit cost, benefits lead and benefit brand to one benefitsAside class, changed Css to suit.
-- Reduced the search engine optimization, online reputation management and social media marketing id's to one mediaSections class, also changed    CSS to suit.
+- Reduced the search engine optimization, online reputation management and social media marketing id's to one mediaSections class, kept individual id's for site navigation links, also changed CSS to suit.
 - Added a underline hover effect to links so links are more obvious to user.
 - Added alt text to all images for screen-reader accessibility.
 
